@@ -1,6 +1,6 @@
 # Prerequisites 
 
-### Scenario Editor
+## Scenario Editor
 
 1. Ensure that [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) is installed to generate the project files.
 
@@ -20,7 +20,7 @@
   
 </div>
 
-### Simulator
+## Simulator
 
 1. Ensure you have the latest NVIDIA drivers for your [CUDA-enabled](https://developer.nvidia.com/cuda-gpus) graphics card.
 

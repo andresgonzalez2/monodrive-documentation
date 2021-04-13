@@ -240,3 +240,4 @@ extra_css:
         
 markdown_extensions:
   - admonition
+  - meta
